@@ -11,6 +11,16 @@
 
   - [С++ база](https://chenweixiang.github.io/docs/The_C++_Programming_Language_4th_Edition_Bjarne_Stroustrup.pdf)
 
+- Фиксируем прогресс в [Todoist](https://app.todoist.com/app/today)
+
+  - Вам нужно создать аккаунт и следить за задачками
+    - C++ - изучение С++
+    - Vampire Survivors Code - Задачки
+      - Todo: pool задачек
+      - In progress: в работе
+      - Done: выполненные
+    - Vampire Survivors Diagrams - Диаграмки
+
 - Пишем игрушку, клон Vampire Survivors
 
   - [Егор](https://github.com/imporiooo) [Репозиторий](https://github.com/imporiooo/Vampire-Survivors-clone)
