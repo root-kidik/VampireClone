@@ -13,5 +13,5 @@
 
 - Пишем игрушку, клон Vampire Survivors
 
-  - [Егор](https://github.com/imporiooo) [Клон](https://github.com/imporiooo/Vampire-Survivors-clone)
+  - [Егор](https://github.com/imporiooo) [Репозиторий](https://github.com/imporiooo/Vampire-Survivors-clone)
   - [Антон]()
