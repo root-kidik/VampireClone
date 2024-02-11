@@ -15,3 +15,15 @@
 
   - [Егор](https://github.com/imporiooo) [Репозиторий](https://github.com/imporiooo/Vampire-Survivors-clone)
   - [Антон]()
+
+## Пайплайн создания клона
+
+- Я рисую диаграмки + составляю `pool` задачек
+- Обсуждаем задачки
+- Начинаете работу
+- Создание новой ветки `git checkout -b feat-*`
+- Написания кода + `push` в эту ветку
+- Создание `pull request`
+- Я делаю `review`
+- Делаете `refactoring`
+- Пишите мне ещё раз сделать `review`, если ок, то делаю `merge` вашей `feat-*` ветки с вашей `main` веткой
