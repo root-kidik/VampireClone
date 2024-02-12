@@ -27,7 +27,7 @@
 
   - [Егор](https://github.com/imporiooo) [Репозиторий](https://github.com/imporiooo/Vampire-Survivors-clone)
   - [Антон]()
-  - [Максим]()
+  - [Максим](https://github.com/H0ovy) [Репозиторий](https://github.com/H0ovy/VamSuv)
 
 ## 🔨 Пайплайн создания клона
 
